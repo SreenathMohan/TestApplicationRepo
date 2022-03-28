@@ -12,8 +12,7 @@
 	<h2>IHCS Outing</h2>
 	<br>
 	<h2>PICS</h2>
-	<img src="/images//images/bg1.jpg" alt="Trulli" width="500"
-		height="333">
+
 	<img src="/images/IMG-20220325-WA0005.jpg" alt="Trulli" width="500"
 		height="333">
 	<img src="/images/IMG-20220325-WA0011.jpg" alt="Trulli" width="500"
